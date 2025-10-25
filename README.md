@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Career Objective
-I’m Kishore Kumar, Seeking a position in a Software Developer, ML/DL Engineer, Cloud Engineer roles, where I can apply my passion for technology and software development to design, develop, test, and maintain innovative applications also with embedding ML and DL in it. Eager to leverage emerging technologies to create efficient and scalable solutions that meet customer requirements while continuously enhancing my skills in a dynamic and collaborative environment.
+I’m Kishore Kumar MTech CSE Graduate VIT Vellore, Seeking a position in a Software Developer, ML/DL Engineer, Cloud Engineer roles, where I can apply my passion for technology and software development to design, develop, test, and maintain innovative applications also with embedding ML and DL in it. Eager to leverage emerging technologies to create efficient and scalable solutions that meet customer requirements while continuously enhancing my skills in a dynamic and collaborative environment.
 
 ---
 
